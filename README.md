@@ -27,37 +27,42 @@ ENDPOINTS:
 
 http://localhost:8080/api/tasks
 
-CREAR TAREA
+CREAR TAREA:
+
  http://localhost:8080/api/tasks
 
 ![image](https://github.com/fhernandez204/task/blob/master/create.jpg)
 
-OBTENER TODAS LAS POR ID
+
+OBTENER TODAS LAS TAREAS:
 
   http://localhost:8080/api/tasks
 
  ![image](https://github.com/fhernandez204/task/blob/master/getAll.jpg)
 
-OBTENER TAREA POR ID
+OBTENER TAREA POR ID:
 
   http://localhost:8080/api/tasks/{id}
 
  ![image](https://github.com/fhernandez204/task/blob/master/getById.jpg)
 
 
- MODIFICAR TAREA
+ MODIFICAR TAREA:
 
  http://localhost:8080/api/task/{id}
 
  ![image](https://github.com/fhernandez204/task/blob/master/update.jpg)
 
 
- ELIMINAR TAREA
+ ELIMINAR TAREA:
 
  http://localhost:8080/api/task/{id}
+ 
+Tarea a Eliminar:
 
  ![image](https://github.com/fhernandez204/task/blob/master/delete1.jpg)
 
+Tarea Eliminada
  ![image](https://github.com/fhernandez204/task/blob/master/delete2.jpg)
 
 
