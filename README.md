@@ -1,8 +1,10 @@
+Desarrollar una aplicación web simple para la gestión de tareas. La aplicación debe permitir a
+los usuarios crear, leer, actualizar y eliminar tareas (CRUD). El backend debe ser desarrollado
+en Java con Spring Boot.
+
 Spring Boot JPA + H2
 
-Desarrollo de una aplicación que exponga una API RESTful para la creación de Tareas.
-
-REQUISITO:
+REQUISITOS:
 
 ● Banco de datos en memoria. H2.
 
@@ -17,7 +19,7 @@ REQUISITO:
 ● Patron de Diseño Utilizado: MVC.
 
 Estructura del Proyecto:
-![image](https://github.com/fhernandez204/task/blob/master/estructura.png)
+![image](https://github.com/fhernandez204/task/blob/master/estructura%20del%20proyecto.png)
 
 ENDPOINTSÑ http://localhost:8080/api/tasks
 
