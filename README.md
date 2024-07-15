@@ -17,7 +17,12 @@ REQUISITO:
 ● Patron de Diseño Utilizado: MVC.
 
 Estructura del Proyecto:
+![image](https://github.com/fhernandez204/task/blob/master/estructura del proyecto.png)
 
-image
+CREAR USUARIO
+ http://localhost:8080/api/users
+
+ 
+![image](https://github.com/fhernandez204/apiRest/blob/master/createUser.png)
 
 ENDPOINTSÑ http://localhost:8080/api/tasks
