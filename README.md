@@ -17,13 +17,41 @@ REQUISITO:
 ● Patron de Diseño Utilizado: MVC.
 
 Estructura del Proyecto:
-![image](https://github.com/fhernandez204/task/blob/master/estructura del proyecto.png)
+![image](https://github.com/fhernandez204/task/blob/master/estructura.png)
 
 ENDPOINTSÑ http://localhost:8080/api/tasks
 
-CREAR Tarea
- http://localhost:8080/api/task
+CREAR TAREA
+ http://localhost:8080/api/tasks
 
 ![image](https://github.com/fhernandez204/task/blob/master/create.jpg)
+
+OBTENER TODAS LAS POR ID
+
+  http://localhost:8080/api/tasks
+
+ ![image](https://github.com/fhernandez204/task/blob/master/getAll.jpg)
+
+OBTENER TAREA POR ID
+
+  http://localhost:8080/api/tasks/{id}
+
+ ![image](https://github.com/fhernandez204/task/blob/master/getById.jpg)
+
+
+ MODIFICAR TAREA
+
+ http://localhost:8080/api/task/{id}
+
+ ![image](https://github.com/fhernandez204/task/blob/master/update.jpg)
+
+
+ ELIMINAR TAREA
+
+ http://localhost:8080/api/task/{id}
+
+ ![image](https://github.com/fhernandez204/task/blob/master/delete1.jpg)
+
+ ![image](https://github.com/fhernandez204/task/blob/master/delete2.jpg)
 
 
