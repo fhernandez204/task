@@ -17,7 +17,7 @@ import java.util.Optional;
 
 import static com.task.utils.Constans.*;
 
-
+@CrossOrigin(origins = "http://localhost:8081")
 @RestController
 @RequestMapping("/api")
 public class TaskController {
@@ -63,6 +63,7 @@ public class TaskController {
           Gson gson = new Gson();
             try {
                 logger.info("task: "+task);
+                task.setCompleted(task.getCompleted() == null ? false : task.getCompleted());
                 Task taskIn = new Task(task.getTitle(), task.getDescription(), task.getCompleted());
 
                 Task _task = iTaskService.createTask(taskIn);
