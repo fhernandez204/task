@@ -19,10 +19,11 @@ REQUISITO:
 Estructura del Proyecto:
 ![image](https://github.com/fhernandez204/task/blob/master/estructura del proyecto.png)
 
-CREAR USUARIO
- http://localhost:8080/api/users
-
- 
-![image](https://github.com/fhernandez204/apiRest/blob/master/createUser.png)
-
 ENDPOINTSÑ http://localhost:8080/api/tasks
+
+CREAR Tarea
+ http://localhost:8080/api/task
+
+![image](https://github.com/fhernandez204/task/blob/master/create.jpg)
+
+
