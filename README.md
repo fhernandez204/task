@@ -19,9 +19,13 @@ REQUISITOS:
 ● Patron de Diseño Utilizado: MVC.
 
 Estructura del Proyecto:
+
 ![image](https://github.com/fhernandez204/task/blob/master/estructura%20del%20proyecto.png)
 
-ENDPOINTSÑ http://localhost:8080/api/tasks
+
+ENDPOINTS:
+
+http://localhost:8080/api/tasks
 
 CREAR TAREA
  http://localhost:8080/api/tasks
