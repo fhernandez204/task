@@ -65,4 +65,8 @@ Tarea a Eliminar:
 Tarea Eliminada
  ![image](https://github.com/fhernandez204/task/blob/master/delete2.jpg)
 
+RECOMENDACIONES:
+1.- Creación de las pruebas unitarias.
+2.- Realizar Validaciones como verificar que una tarea ya existe en la Base de Datos para que no sea duplicado.
+
 
